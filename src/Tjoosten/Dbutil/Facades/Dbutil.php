@@ -4,7 +4,7 @@ namespace Tjoosten\Dbutil\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class Permission extends Facade
+class Dbutil extends Facade
 {
     protected static function getFacadeAccessor()
     {
